@@ -1,0 +1,43 @@
+.r-name-details{
+    background-color: #519f9e;
+}
+
+.r-objective{
+    background-color: blueviolet;
+}
+
+.r-workex{
+    background-color: green;
+}
+
+.r-projects{
+    background-color: #519f9e;
+}
+
+.r-education{
+    background-color: greenyellow;
+}
+
+.r-skills{
+    background-color: lightgreen;
+}
+
+.r-certificate{
+background-color: orange;
+}
+
+.r-lang{
+    background-color: orangered;
+}
+
+.r-softskills{
+    background-color: burlywood;
+}
+
+.r-extra{
+    background-color: maroon;
+}
+
+body{
+    background-color: skyblue;
+}
